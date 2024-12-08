@@ -12,10 +12,10 @@ Ce deuxième script commence par afficher des **graphes** de visualisation des d
 ## streamlit_papyrus.py
 Ce troisième script crée et affiche une interface utilisateur pour "La chasse au papyrus".
 Dans cet interface, on trouve une option de visualisation des données analysées dans le deuxième script et une option d'affichage de papyrus.
-Pour afficher les papyrus, trois filtres sont disponnibles: 
-- :scroll: Un filtre sur la provenance des papyrus,  
-- :scroll: Un filtre sur un interval de dates,  
-- :scroll: Un filtre sur le genre du document. 
+Pour afficher les papyrus, trois filtres sont disponibles: 
+:scroll: Un filtre sur la provenance des papyrus,  
+:scroll: Un filtre sur un interval de dates,  
+:scroll: Un filtre sur le genre du document. 
 Après avoir choisi un papyrus, les données suivantes sur les papyrus sont affichées: 
 - Date,    
 - Provenance,     
