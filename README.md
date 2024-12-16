@@ -1,7 +1,7 @@
 # langage_script_TP_papyrus
 
 Dans ce TP pour le cours de langage de script, j'ai écrit 4 scripts python (.py).  
-Le corpus et les tableaux utilisés pour faire tourner ces scripts sont dans mon serveur local, il ne pourront donc pas tourner sans.    
+Le corpus et les tableaux utilisés pour faire tourner ces scripts sont dans mon serveur local, ils ne pourront donc pas tourner sans.    
 
 ## scraping.py 
 Dans ce premier script, le site internet trismegistos qui répertorie les papyrus est scrappé afin de récupérer un corpus de papyrus enrichi. 
