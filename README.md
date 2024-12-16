@@ -1,6 +1,6 @@
 # langage_script_TP_papyrus
 
-Dans ce TP pour le cours de langage de script, j'ai écrit 3 scripts python (.py).  
+Dans ce TP pour le cours de langage de script, j'ai écrit 4 scripts python (.py).  
 
 ## scraping.py 
 Dans ce premier script, le site internet trismegistos qui répertorie les papyrus est scrappé afin de récupérer un corpus de papyrus enrichi. 
@@ -22,3 +22,7 @@ Après avoir choisi un papyrus, les données suivantes sur les papyrus sont affi
 - Listes des personnes mentionnées et les ids papyrus dans lesquels ces personnes apparaissent,      
 - Listes des lieux mentionnées et les ids papyrus dans lesquels ces lieux apparaissent,    
 - Texte annoté avec les irrégularités graphiques, etc.
+
+## coord_geo.py
+Ce script récupère le csv contenant toutes les informations sur les papyrus scrappés et récupère avec une nouvelle opération de scrapping les coordonnées géographiques des lieux mentionnées dans les papyrus.  
+Il retourne ensuite un nouveau tableau augmenté avec cette colonne de coordonnées géographiques mais également un nouveau csv contenant uniquement les coordonnées géographiques.  
